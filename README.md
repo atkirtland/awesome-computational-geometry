@@ -1,4 +1,5 @@
 # Awesome Computational Geometry
+[![Build Status](https://api.travis-ci.org/atkirtland/awesome-computational-geometry.svg?branch=master)](https://travis-ci.org/atkirtland/awesome-computational-geometry)
 
 A curated list of awesome computational geometry visualizations, frameworks, and resources.
 
@@ -62,7 +63,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Wykobi](http://www.wykobi.com/index.html) - Wykobi is an extremly efficient, robust and simple to use C++ 2D/3D oriented computational geometry library.
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) - Open-Source (Boost-license) C# library for geometric computing.
 * [Computational Geometry Software Libraries](http://jeffe.cs.illinois.edu/compgeom/software.html) - Jeff Erickson @ UIUC large collections and libraries of geometric software
-* [The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/major_section/1.6.shtml) - based on [The Algorithm Design Manual](https://www.amazon.com/exec/obidos/ASIN/1848000693/thealgorithmrepo)
+* [The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/major_section/1.6.shtml) - based on [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
 * [Geometric Tools](https://www.geometrictools.com/index.html) - a library of source code for computing in the fields of mathematics, graphics, image analysis and physics (includes some computational geometry algorithms)
 * [GeoLib](http://www.geolib.co.uk/) - 2005: a fast, efficient, computational geometry library available in C++, C# and Java
 
@@ -106,3 +107,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [John Hopkins](https://ep.jhu.edu/programs-and-courses/605.727-computational-geometry) - Boon
   * [old](http://www.cs.jhu.edu/~goodrich/teach/geom/) - Goodrich: contains resources
 * [Washington University in St. Louis](http://www.cs.wustl.edu/~taoju/cse546/) - Tao Ju
+
+## Contribute
+
+Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
