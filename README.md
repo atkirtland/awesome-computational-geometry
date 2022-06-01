@@ -1,10 +1,9 @@
-# Awesome Computational Geometry
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Build Status](https://api.travis-ci.org/atkirtland/awesome-computational-geometry.svg?branch=master)](https://travis-ci.org/atkirtland/awesome-computational-geometry)
+# Awesome Computational Geometry [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://api.travis-ci.org/atkirtland/awesome-computational-geometry.svg?branch=master)](https://travis-ci.org/atkirtland/awesome-computational-geometry)
 
-> A curated list of awesome computational geometry visualizations, frameworks, and resources.
+<!--Inspired by [awesome-python](https://github.com/vinta/awesome-python).-->
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome computational geometry visualizations, libraries, and resources.
+
 
 ## Table of Contents
 
@@ -47,7 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Notes
 
-> concise accumulations of concepts
+> Concise accumulations of concepts
 
 - [Lecture Notes](http://www.cs.umd.edu/~mount/754/Lects/754lects.pdf) - David Mount, (2002): CMSC 754 Computational Geometry at the University of Maryland.
 - [Handbook of Discrete and Computational Geometry](https://www.csun.edu/~ctoth/Handbook/HDCG3.html) - Jacob E. Goodman, Joseph O'Rourke, Csaba D. Tóth (2017).
@@ -60,19 +59,19 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Frameworks
 
-> frameworks, libraries
+> Frameworks and Libraries
 
 - [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
 - [Wykobi](http://www.wykobi.com/index.html) - An extremely efficient, robust and simple to use C++ 2D/3D oriented computational geometry library.
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) - Open-Source (Boost-license) C# library for geometric computing.
 - [Computational Geometry Software Libraries](http://jeffe.cs.illinois.edu/compgeom/software.html) - Jeff Erickson: UIUC's large collection and library of geometric software.
 - [The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/major_section/1.6.shtml) - Based on [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693).
-- [Geometric Tools](https://www.geometrictools.com/index.html) - a library of source code for computing in the fields of mathematics, graphics, image analysis and physics (includes some computational geometry algorithms).
+- [Geometric Tools](https://www.geometrictools.com/index.html) - A library of source code for computing in the fields of mathematics, graphics, image analysis and physics (includes some computational geometry algorithms).
 - [GeoLib](http://www.geolib.co.uk/) - (2005): A fast, efficient, computational geometry library available in C++, C# and Java.
 
 ## Algorithms
 
-> frameworks that attempt to solve a particular problem rather than a general set
+> Frameworks that attempt to solve a particular problem rather than a large general class of problems
 
 - [hull.js](https://github.com/AndriiHeonia/hull) - JavaScript library that builds concave hull by set of points.
 - [S2 Geometry Library](https://github.com/google/s2geometry) - A package for manipulating geometric shapes. Unlike many geometry libraries, S2 is primarily designed to work with spherical geometry, i.e., shapes drawn on a sphere rather than on a planar 2D map. This makes it especially suitable for working with geographic data.
