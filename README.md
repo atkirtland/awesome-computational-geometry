@@ -1,7 +1,4 @@
 # Awesome Computational Geometry [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<!--[![Build Status](https://api.travis-ci.org/atkirtland/awesome-computational-geometry.svg?branch=master)](https://travis-ci.org/atkirtland/awesome-computational-geometry)-->
-
-<!--Inspired by [awesome-python](https://github.com/vinta/awesome-python).-->
 
 A curated list of awesome computational geometry visualizations, libraries, and resources.
 
@@ -15,6 +12,7 @@ A curated list of awesome computational geometry visualizations, libraries, and 
 - [Conferences](#conferences)
   - [Strictly Computational Geometry](#strictly-computational-geometry)
   - [Broader](#broader)
+- [Journals](#journals)
 - [Competitive Programming](#competitive-programming)
 - [Courses](#courses)
   - [Open Courses](#open-courses)
@@ -30,7 +28,7 @@ A curated list of awesome computational geometry visualizations, libraries, and 
 - [Voronoi Diagrams](http://alexbeutel.com/webgl/voronoi.html) - A partition of a plane into regions close to a given set of points.
 - [Fortune's Algorithm](https://www.desmos.com/calculator/ejatebvup4) - A sweep line algorithm for generating the Voronoi diagram in O(n log n) time and O(n) space.
 - [Point/Line Duality](https://people.eng.unimelb.edu.au/henli/programs/duality-demo/) - A type of mathematical duality frequently used in computational geometry algorithms.
-- [kd-tree](https://opendsa-server.cs.vt.edu/ODSA/AV/Development/kd-treeAV.html?selfLoggingEnabled=false&localMode=false&module=KDtree&JXOP-debug=true&JOP-lang=en&JXOP-code=java&scoringServerEnabled=false&threshold=1.0&points=0&required=False) - A method of partitioning k-dimensional space in an efficient way for searches like nearest neighbors.
+- [k-d tree](https://opendsa-server.cs.vt.edu/ODSA/AV/Development/kd-treeAV.html?selfLoggingEnabled=false&localMode=false&module=KDtree&JXOP-debug=true&JOP-lang=en&JXOP-code=java&scoringServerEnabled=false&threshold=1.0&points=0&required=False) - A method of partitioning k-dimensional space in an efficient way for searches like nearest neighbors.
 - [Configuration Space](https://www.youtube.com/watch?v=SBFwgR4K1Gk) - The space of possible configurations of an object like a robot.
 
 ## Books
@@ -46,18 +44,18 @@ A curated list of awesome computational geometry visualizations, libraries, and 
 
 - [Lecture Notes](http://www.cs.umd.edu/~mount/754/Lects/754lects.pdf) - Lecture notes from CMSC 754 Computational Geometry at the University of Maryland by David Mount (2002).
 - [Handbook of Discrete and Computational Geometry](https://www.csun.edu/~ctoth/Handbook/HDCG3.html) - A handbook by Jacob E. Goodman, Joseph O'Rourke, and Csaba D. Tóth (2017).
-- [Handbook of Computational Geometry](https://www.amazon.com/Handbook-Computational-Geometry-J-Sack-ebook/dp/B00QM3S1SC) - An overview of key concepts and results in Computational Geometry by J. R. Sack, and J. Urrutia (1998).
+- [Handbook of Computational Geometry](https://www.amazon.com/Handbook-Computational-Geometry-J-Sack-ebook/dp/B00QM3S1SC) - An overview of key concepts and results in computational geometry by J. R. Sack, and J. Urrutia (1998).
 - [Computing in Euclidean Geometry](https://www.amazon.com/Computing-Euclidean-Geometry-Lecture-Notes/dp/9810218761) - A collection of surveys and exploratory articles about recent developments in the field of computational Euclidean geometry by Ding-Zhu Du and Frank Hwang (1995).
 
 ## Libraries
 
 - [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
-- [Wykobi](http://www.wykobi.com/index.html) - An extremely efficient, robust and simple to use C++ 2D/3D oriented computational geometry library.
-- [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) - Open-Source (Boost-license) C# library for geometric computing.
-- [Computational Geometry Software Libraries](http://jeffe.cs.illinois.edu/compgeom/software.html) - Jeff Erickson: UIUC's large collection and library of geometric software.
-- [The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/major_section/1.6.shtml) - Based on [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693).
-- [Geometric Tools](https://www.geometrictools.com/index.html) - A library of source code for computing in the fields of mathematics, graphics, image analysis, and physics (includes some computational geometry algorithms).
-- [GeoLib](http://www.geolib.co.uk/) - A fast, efficient, computational geometry library available in C++, C# and Java.
+- [Wykobi](http://www.wykobi.com/index.html) - An extremely efficient, robust, and simple to use C++ 2D/3D oriented computational geometry library.
+- [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) - Open-Source, Boost-licensed C# library for geometric computing.
+- [Computational Geometry Software Libraries](http://jeffe.cs.illinois.edu/compgeom/software.html) - UIUC's large collection and library of geometric software by Jeff Erickson.
+- [The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/major_section/1.6.shtml) - A repository of algorithms based on [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693).
+- [Geometric Tools](https://www.geometrictools.com/index.html) - A library of source code for computing in the fields of mathematics, graphics, image analysis, and physics that includes some computational geometry algorithms.
+- [GeoLib](http://www.geolib.co.uk/) - A fast and efficient computational geometry library available in C++, C# and Java.
 - [hull.js](https://github.com/AndriiHeonia/hull) - JavaScript library that builds the convex hull of a set of points.
 - [S2 Geometry Library](https://github.com/google/s2geometry) - A package for manipulating geometric shapes. Unlike many geometry libraries, S2 is primarily designed to work with spherical geometry, i.e., shapes drawn on a sphere rather than on a planar 2D map. This makes it especially suitable for working with geographic data.
 - [Computational Geometry Unity Library](https://github.com/Habrador/Computational-geometry) - A library of computational geometry algorithms for Unity.
@@ -66,9 +64,9 @@ A curated list of awesome computational geometry visualizations, libraries, and 
 
 ### Strictly Computational Geometry
 
-- [Symposium on Computational Geometry](http://www.computational-geometry.org/) - Annual SoCG event.
+- [Symposium on Computational Geometry](http://www.computational-geometry.org/) - An annual symposium.
 - [The Canadian Conference on Computational Geometry](http://www.cccg.ca/) - An annual international event for the dissemination of new results in the fields of computational and combinatorial geometry. The conference is usually held in a Canadian city sometime in mid-August.
-- [Japan Conference on Discrete and Computational Geometry, Graphs, and Games](http://www.alg.cei.uec.ac.jp/itohiro/JCDCGG/) - Held annually since 1997, except for 2008.
+- [Japan Conference on Discrete and Computational Geometry, Graphs, and Games](http://www.alg.cei.uec.ac.jp/itohiro/JCDCGG/) - A conference held annually since 1997, except for 2008.
 
 ### Broader
 
@@ -104,7 +102,7 @@ A curated list of awesome computational geometry visualizations, libraries, and 
 - [Washington University in St. Louis](http://www.cs.wustl.edu/~taoju/cse546/) - A course taught by Tao Ju in 2017.
 - [The University of Maryland](http://www.cs.umd.edu/~mount/754/) - A course taught by Dave Mount in 2002.
 - [UC Santa Barbara](https://sites.cs.ucsb.edu/~suri/cs235/235.html) - A course taught by Subhash Suri in 2021.
-- [UIUC](https://jeffe.cs.illinois.edu/teaching/compgeom/) - CS 498 TC as taught by Jeff Erickson in 2022.
+- [UIUC](https://jeffe.cs.illinois.edu/teaching/compgeom/) - A course taught by Jeff Erickson in 2022.
 - [UC Berkeley](https://people.eecs.berkeley.edu/~jrs/274/) - A course taught by Jonathan Shewchuk in 2019.
 - [Tufts](http://www.cs.tufts.edu/comp/163/) - A course taught by Diane Souvaine in 2022.
 - [KIT](https://i11www.iti.kit.edu/teaching/sommer2018/compgeom/index) - A course taught by Tamara Mchedlidze and Chih-Hung Liu in 2018.
