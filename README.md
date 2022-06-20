@@ -49,7 +49,7 @@ A curated list of awesome computational geometry visualizations, libraries, and 
 
 ## Libraries
 
-- [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
+- [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. This website also has explanations of many of these algorithms.
 - [Wykobi](http://www.wykobi.com/index.html) - An extremely efficient, robust, and simple to use C++ 2D/3D oriented computational geometry library.
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) - Open-Source, Boost-licensed C# library for geometric computing.
 - [Computational Geometry Software Libraries](http://jeffe.cs.illinois.edu/compgeom/software.html) - UIUC's large collection and library of geometric software by Jeff Erickson.
@@ -86,6 +86,7 @@ A curated list of awesome computational geometry visualizations, libraries, and 
 - [HackerEarth](https://www.hackerearth.com/practice/notes/computational-geometry-i-1/) - A set of articles on computational geometry.
 - [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/) - A set of articles on computational geometry.
 - [HackerRank](https://www.hackerrank.com/domains/mathematics/geometry) - A set of programming problems using computational geometry.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/geometric-algorithms/) - Implementations and explanations for a large number of commonly asked questions and common topics in geometric algorithms.
 
 ## Courses
 
