@@ -1,7 +1,9 @@
 # Awesome Computational Geometry [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome computational geometry visualizations, libraries, and resources.
+> A curated list of awesome computational geometry visualizations, libraries, and resources.
 
+[Computational geometry](https://en.wikipedia.org/wiki/Computational_geometry) is a topic in computer science that focuses on solving problems in geometry. 
+Applications of computational geometry include computer-aided design, robotics, GIS systems, and computer vision. 
 
 ## Contents
 
