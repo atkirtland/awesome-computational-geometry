@@ -59,6 +59,7 @@ Applications of computational geometry include computer-aided design, robotics, 
 - [Geometric Tools](https://www.geometrictools.com/index.html) - A library of source code for computing in the fields of mathematics, graphics, image analysis, and physics that includes some computational geometry algorithms.
 - [GeoLib](http://www.geolib.co.uk/) - A fast and efficient computational geometry library available in C++, C# and Java.
 - [hull.js](https://github.com/AndriiHeonia/hull) - JavaScript library that builds the convex hull of a set of points.
+- [Aletheia Hulllock](https://github.com/shaneraphel/aletheia-hulllock) - Python Graham-scan hull occupancy. An empty point tape refuses instead of reporting hull size 0.
 - [S2 Geometry Library](https://github.com/google/s2geometry) - A package for manipulating geometric shapes. Unlike many geometry libraries, S2 is primarily designed to work with spherical geometry, i.e., shapes drawn on a sphere rather than on a planar 2D map. This makes it especially suitable for working with geographic data.
 - [Computational Geometry Unity Library](https://github.com/Habrador/Computational-geometry) - A library of computational geometry algorithms for Unity.
 
